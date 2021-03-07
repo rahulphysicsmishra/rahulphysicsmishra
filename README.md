@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Job Interviews.
 - 💬 Ask me about **Python/Tech related/Yoga related questions**.
 - 📫 How to reach me: Gmail - [link](rahulphysicsmishra@gmail.com).
-
