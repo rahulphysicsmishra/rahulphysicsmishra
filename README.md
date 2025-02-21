@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Frontend Projects and DSA**.
-- 🌱 I’m currently learning **Fullstack Development**.
+I'm working on a B2C Startup with a vision to create an ecosystem for you to get paid for being healthy. 
 - 📫 How to reach me: Linkedin - [link](https://www.linkedin.com/in/rahulphysicsmishra/)
