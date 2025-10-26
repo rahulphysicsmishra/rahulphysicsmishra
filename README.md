@@ -35,3 +35,4 @@ I believe yoga and AI aren’t separate worlds. Yoga trained me to ask the right
 ## Let’s Connect
 
 * Reach me here on GitHub or Linkedin [link](https://www.linkedin.com/in/rahulphysicsmishra/)
+* Learn with me at [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png) Join the CoderLegion Community](https://coderlegion.com/user/yogirahul)
